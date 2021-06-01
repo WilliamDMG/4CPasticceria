@@ -1,3 +1,4 @@
+// modificato online
 public class Prodotto {
 	private String codice;
 	private String nome;
